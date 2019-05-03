@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-itcenter-mobile-settings",
+  "version": "0.1.1",
+  "description": "Appends setting to mobile platforms for voicis-uc-app.",
+  "cordova": {
+    "id": "cordova-plugin-itcenter-mobile-settings",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "engines": [{
+    "name": "cordova",
+    "version": ">=3.0.0"
+  }],
+  "author": "Voicis UC Team",
+  "license": "Apache 2.0"
+}
